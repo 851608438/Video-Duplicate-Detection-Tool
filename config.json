@@ -1,0 +1,10 @@
+{
+  "last_folder": "D:/Telegram",
+  "clip_threshold": 0.85,
+  "clip_fps_sample": 2.0,
+  "enable_gpu": true,
+  "batch_size": 32,
+  "cache_path": "cache/video_cache.db",
+  "detection_mode": "ratio_frame",
+  "ratio_frame_threshold": 0.85
+}
